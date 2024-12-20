@@ -1,0 +1,164 @@
+{
+  "nodes": [
+    {
+      "id": "src/product_model.php"
+    },
+    {
+      "id": "src/seller_store_controller.php"
+    },
+    {
+      "id": "src/stuff.js"
+    },
+    {
+      "id": "src/WebsiteProject/index.php"
+    },
+    {
+      "id": "src/WebsiteProject/product_model--mightbe impo.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/add_product.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/add_product_controller.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/cart_action.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/cart_controller.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/cart_controllerbackup.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/checkout_controller.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/dashboard_controller.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/delete_product_controller.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/download_image.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/edit_product_controller.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/login.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/logout.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/order_confirmation_controller.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/order_history_controller.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/register.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/seller.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/seller_store_controller.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/sold_items_controller.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/submit_product_controller.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/update_product_controller.php"
+    },
+    {
+      "id": "src/WebsiteProject/controllers/wishlist_controller.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/add_product_view.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/both_dashboard.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/cart_view.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/order_history_bought.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/order_history_sold.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/order_history_view.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/order_success.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/product_list.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/seller_dashboard.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/seller_edit_product.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/seller_sold_items.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/seller_store_view.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/user_dashboard.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/wishlist_card.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/wishlist_view.php"
+    },
+    {
+      "id": "src/WebsiteProject/utility/config.php"
+    },
+    {
+      "id": "src/WebsiteProject/models/cart_model.php"
+    },
+    {
+      "id": "src/WebsiteProject/models/checkout_model.php"
+    },
+    {
+      "id": "src/WebsiteProject/models/order_model.php"
+    },
+    {
+      "id": "src/WebsiteProject/models/product_model.php"
+    },
+    {
+      "id": "src/WebsiteProject/models/wishlist_model.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/partials/both_navbar.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/partials/footer.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/partials/header.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/partials/navbar.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/partials/seller_navbar.php"
+    },
+    {
+      "id": "src/WebsiteProject/views/partials/user_navbar.php"
+    }
+  ],
+  "links": []
+}
